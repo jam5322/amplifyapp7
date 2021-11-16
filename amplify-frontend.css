@@ -1,0 +1,31 @@
+body {
+    background-color: rgb(63, 63, 63);
+}
+
+h1 {
+    color:rgb(230, 230, 230);
+    text-align: center;
+}
+
+h2 {
+    color:rgb(230, 230, 230);
+    text-align: center;
+}
+
+header {
+    background-color:rgb(63, 63, 63)
+}
+
+img {
+    max-width: 50%;
+    max-height: 50%;
+    /* box-shadow: 50px 5px 5px black; */
+    box-shadow: 0 8px 8px 20px rgba(0, 0, 0, 0.2), 0 12px 20px 20px rgba(0, 0, 0, 0.19);
+}
+
+.centerImage {
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
